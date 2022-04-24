@@ -1,0 +1,12 @@
+name: onix
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib=3.3.4
+  - numpy=1.19.2
+  - pip=21.0.1
+  - python=3.8.8
+  - pytorch
+  - torchvision
+  - cudatoolkit
