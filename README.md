@@ -1,17 +1,16 @@
 # ONIX: an X-ray deep-learning tool for 3D reconstructions from sparse views
 
-Yuhe Zhang, Zisheng Yao, Tobias Ritschel, Pablo Villanueva-Perez
+Yuhe Zhang\*, Zisheng Yao, Tobias Ritschel, Pablo Villanueva-Perez
 
-
+ONIX is a deep-learning 3D X-ray reconstruction approach allowing reconstructing 3D from sparse 2D projections.  
+For more detailed information about ONIX training and performance, please refer to our [paper](https://arxiv.org/abs/2203.00682).
 
 <p align="center">
 <img src="images/ONIX-Illustration.png" width="650"/>
 </p>
 
-![](images/ONIX-supp-movie.mp4)
+https://user-images.githubusercontent.com/67344944/164986819-91df30bf-637d-41bb-a5a2-c6670f27faac.mp4
 
-ONIX is a deep-learning 3D X-ray reconstruction approach allowing reconstructing 3D from sparse 2D projections.  
-For more detailed information about ONIX training and performance, please refer to our [paper](https://arxiv.org/abs/2203.00682).
 
 ## Getting Started
 ### Prerequisites
@@ -61,7 +60,7 @@ For more training options, please check out:
 
 We also provide a training script to make it easier (suggested):
 
-`. run.sh <run_name> <n_views> <num_val_views> <load_path>`
+`. train.sh <run_name> <n_views> <num_val_views> <load_path>`
 
 
 ### Results
