@@ -3,7 +3,7 @@
 Yuhe Zhang\*, Zisheng Yao, Tobias Ritschel, Pablo Villanueva-Perez
 
 ONIX is a deep-learning 3D X-ray reconstruction approach allowing reconstructing 3D from sparse 2D projections.  
-For more detailed information about ONIX training and performance, please refer to our [paper](https://doi.org/10.1002/appl.202300016).
+For more detailed information about ONIX training and performance, please refer to our paper: [https://doi.org/10.1002/appl.202300016](https://doi.org/10.1002/appl.202300016).
 
 <p align="center">
 <img src="images/ONIX-Illustration.png" width="650"/>
